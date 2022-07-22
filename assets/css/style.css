@@ -5,11 +5,11 @@ body {
 }
 
 a {
-	color: #eba634
+	color: #780a09
 }
 
 a:hover {
-	color: #eba634;
+	color: #780a09;
 	text-decoration: none
 }
 
@@ -23,7 +23,7 @@ h6 {
 }
 
 mark.derman {
-	color: #eba634;
+	color: #780a09;
 	background: 0 0
 }
 
@@ -43,7 +43,7 @@ mark.derman {
 	position: fixed;
 	top: calc(50% - 30px);
 	left: calc(50% - 30px);
-	border: 6px solid #eba634;
+	border: 6px solid #780a09;
 	border-top-color: #575756;
 	border-radius: 50%;
 	width: 60px;
@@ -86,13 +86,13 @@ mark.derman {
 	width: 40px;
 	height: 40px;
 	border-radius: 50px;
-	background: #eba634;
+	background: #780a09;
 	color: #fff;
 	transition: all .4s
 }
 
 .back-to-top i:hover {
-	background: #eba634;
+	background: #780a09;
 	color: #fff
 }
 
@@ -112,11 +112,11 @@ mark.derman {
 }
 
 #topbar .contact-info a:hover {
-	color: #eba634
+	color: #780a09
 }
 
 #topbar .contact-info i {
-	color: #eba634;
+	color: #780a09;
 	padding-right: 4px;
 	margin-left: 15px
 }
@@ -134,7 +134,7 @@ mark.derman {
 }
 
 #topbar .social-links a:hover {
-	color: #eba634
+	color: #780a09
 }
 
 #topbar .social-links a:first-child {
@@ -175,7 +175,7 @@ mark {
   padding: 0.1em 0.4em;
 color:#fff;
   background: transparent;
-  background-color: #eba634;
+  background-color: #780a09;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
@@ -218,8 +218,8 @@ color:#fff;
 .nav-menu .active>a,
 .nav-menu a:hover,
 .nav-menu li:hover>a {
-	color: #eba634;
-	border-color: #eba634
+	color: #780a09;
+	border-color: #780a09
 }
 /* Mobile Navigation */
 
@@ -239,7 +239,7 @@ color:#fff;
 }
 
 .mobile-nav-toggle i {
-	color: #eba634;
+	color: #780a09;
 }
 
 .mobile-nav {
@@ -276,7 +276,7 @@ color:#fff;
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-	color: #eba634;
+	color: #780a09;
 	text-decoration: none;
 }
 
@@ -343,7 +343,7 @@ color:#fff;
 }
 .appointment-btn {
 	margin-left: 25px;
-	background: #eba634;
+	background: #780a09;
 	color: #fff;
 	border-radius: 50px;
 	padding: 8px 25px;
@@ -354,7 +354,7 @@ color:#fff;
 }
 .vita-btn {
 	margin-left: 0px;
-	background: #eba634;
+	background: #780a09;
 	color: #fff;
 	border-radius: 50px;
 	padding: 8px 53px;
@@ -365,8 +365,8 @@ color:#fff;
 }
 .appointment-btn:hover {
 	background: #fff;
-	color: #eba634;
-	border: 1px solid #eba634
+	color: #780a09;
+	border: 1px solid #780a09
 }
 
 @media (max-width:768px) {
@@ -418,13 +418,13 @@ color:#fff;
 	border-radius: 50px;
 	transition: .5s;
 	color: #fff;
-	background: #eba634
+	background: #780a09
 }
 
 #hero .btn-get-started:hover {
 	background: #fff;
-	color: #eba634;
-	border: 1px solid #eba634
+	color: #780a09;
+	border: 1px solid #780a09
 }
 
 @media (min-width:1024px) {
@@ -498,7 +498,7 @@ section {
 	display: block;
 	width: 40px;
 	height: 3px;
-	background: #eba634;
+	background: #780a09;
 	bottom: 0;
 	left: calc(50% - 20px)
 }
@@ -509,7 +509,7 @@ section {
 
 .why-us .content {
 	padding: 40px 30px;
-	background: #eba634;
+	background: #780a09;
 	border-radius: 4px;
 	color: #fff
 }
@@ -534,7 +534,7 @@ section {
 
 .why-us .icon-boxes .icon-box i {
 	font-size: 40px;
-	color: #eba634;
+	color: #780a09;
 	margin-bottom: 0
 }
 
@@ -570,7 +570,7 @@ td {
 
 .leistungen .icon-boxes h4 {
 	font-size: 18px;
-	color: #eba634;
+	color: #780a09;
 	margin-bottom: 15px
 }
 
@@ -598,13 +598,13 @@ td {
 }
 
 .leistungen .icon-box .icon i {
-	color: #eba634;
+	color: #780a09;
 	font-size: 16px
 }
 
 .leistungen .icon-box:hover .icon {
-	background: #eba634;
-	border-color: #eba634
+	background: #780a09;
+	border-color: #780a09
 }
 
 .leistungen .icon-box:hover .icon i {
@@ -624,7 +624,7 @@ td {
 }
 
 .leistungen .icon-box .title a:hover {
-	color: #eba634
+	color: #780a09
 }
 
 .leistungen .icon-box .description {
@@ -707,7 +707,7 @@ td {
 .appointment .php-email-form .sent-message {
 	display: none;
 	color: #fff;
-	background: #eba634;
+	background: #780a09;
 	text-align: center;
 	padding: 15px;
 	font-weight: 600
@@ -727,7 +727,7 @@ td {
 	width: 24px;
 	height: 24px;
 	margin: 0 10px -6px 0;
-	border: 3px solid #eba634;
+	border: 3px solid #780a09;
 	border-top-color: #eee;
 	-webkit-animation: animate-loading 1s linear infinite;
 	animation: animate-loading 1s linear infinite
@@ -743,7 +743,7 @@ td {
 
 .appointment .php-email-form input:focus,
 .appointment .php-email-form textarea:focus {
-	border-color: #eba634
+	border-color: #780a09
 }
 
 .appointment .php-email-form input {
@@ -755,7 +755,7 @@ td {
 }
 
 .appointment .php-email-form button[type=submit] {
-	background: #eba634;
+	background: #780a09;
 	border: 0;
 	padding: 10px 35px;
 	color: #fff;
@@ -765,8 +765,8 @@ td {
 
 .appointment .php-email-form button[type=submit]:hover {
 	background: #fff;
-	color: #eba634;
-	border: 1px solid #eba634
+	color: #780a09;
+	border: 1px solid #780a09
 }
 
 .patienten {
@@ -785,12 +785,12 @@ td {
 }
 
 .patienten .nav-link:hover {
-	color: #eba634
+	color: #780a09
 }
 
 .patienten .nav-link.active {
-	color: #eba634;
-	border-color: #eba634
+	color: #780a09;
+	border-color: #780a09
 }
 
 @media (max-width:992px) {
@@ -800,7 +800,7 @@ td {
 	}
 	.patienten .nav-link.active {
 		color: #fff;
-		background: #eba634
+		background: #780a09
 	}
 }
 
@@ -820,12 +820,12 @@ td {
 }
 
 .ueberweiser .nav-link:hover {
-	color: #eba634
+	color: #780a09
 }
 
 .ueberweiser .nav-link.active {
-	color: #eba634;
-	border-color: #eba634
+	color: #780a09;
+	border-color: #780a09
 }
 
 @media (max-width:992px) {
@@ -835,7 +835,7 @@ td {
 	}
 	.ueberweiser .nav-link.active {
 		color: #fff;
-		background: #eba634
+		background: #780a09
 	}
 }
 
@@ -864,7 +864,7 @@ td {
 	float: left;
 	width: 44px;
 	height: 44px;
-	background: #eba634;
+	background: #780a09;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -894,7 +894,7 @@ td {
 .contact .info .address:hover i,
 .contact .info .email:hover i,
 .contact .info .phone:hover i {
-	background: #eba634;
+	background: #780a09;
 	color: #fff
 }
 
@@ -931,7 +931,7 @@ td {
 .contact .php-email-form .sent-message {
 	display: none;
 	color: #fff;
-	background: #eba634;
+	background: #780a09;
 	text-align: center;
 	padding: 15px;
 	font-weight: 600
@@ -951,7 +951,7 @@ td {
 	width: 24px;
 	height: 24px;
 	margin: 0 10px -6px 0;
-	border: 3px solid #eba634;
+	border: 3px solid #780a09;
 	border-top-color: #eee;
 	-webkit-animation: animate-loading 1s linear infinite;
 	animation: animate-loading 1s linear infinite
@@ -973,7 +973,7 @@ td {
 }
 
 .contact .php-email-form button[type=submit] {
-	background: #eba634;
+	background: #780a09;
 	border: 0;
 	padding: 10px 35px;
 	color: #fff;
@@ -983,13 +983,13 @@ td {
 
 .contact .php-email-form button[type=submit]:hover {
 	background: #fff;
-	color: #eba634;
-	border: 1px solid #eba634
+	color: #780a09;
+	border: 1px solid #780a09
 }
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-	border-color: #eba634
+	border-color: #780a09
 }
 
 @-webkit-keyframes animate-loading {
@@ -1013,7 +1013,7 @@ td {
 #footer {
 	color: #444;
 	font-size: 14px;
-	background: #eba634
+	background: #780a09
 }
 
 #footer .footer-top {
@@ -1062,7 +1062,7 @@ td {
 
 #footer .footer-top .footer-links ul i {
 	padding-right: 2px;
-	color: #eba634;
+	color: #780a09;
 	font-size: 18px;
 	line-height: 1
 }
@@ -1086,13 +1086,13 @@ td {
 
 #footer .footer-top .footer-links ul a:hover {
 	text-decoration: none;
-	color: #eba634
+	color: #780a09
 }
 
 #footer .social-links a {
 	font-size: 18px;
 	display: inline-block;
-	background: #eba634;
+	background: #780a09;
 	color: #fff;
 	line-height: 1;
 	padding: 8px 0;
@@ -1105,7 +1105,7 @@ td {
 }
 
 #footer .social-links a:hover {
-	background: #eba634;
+	background: #780a09;
 	color: #fff;
 	text-decoration: none
 }
@@ -1145,7 +1145,7 @@ td {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #eba634;
+  color: #780a09;
 }
 
 .doctors .member span {
@@ -1162,7 +1162,7 @@ td {
   display: block;
   width: 50px;
   height: 1px;
-  background: #eba634;
+  background: #780a09;
   bottom: 0;
   left: 0;
 }
@@ -1187,7 +1187,7 @@ td {
   border-radius: 50px;
   width: 32px;
   height: 32px;
-  background: #eba634;
+  background: #780a09;
 }
 
 .doctors .member .social a i {
@@ -1197,7 +1197,7 @@ td {
 }
 
 .doctors .member .social a:hover {
-  background: #eba634;
+  background: #780a09;
 }
 
 .doctors .member .social a + a {
@@ -1288,7 +1288,7 @@ td {
   text-decoration: underline;
 }
 .values .card:hover .card-body {
-  background: #eba634;
+  background: #780a09;
 }
 .values .card:hover .read-more a, .values .card:hover .card-title, .values .card:hover .card-title a, .values .card:hover .card-text {
   color: #fff;
